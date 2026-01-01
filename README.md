@@ -10,8 +10,8 @@
 [![Dart](https://img.shields.io/badge/Dart-3.5+-0175C2?logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/meshnet?style=social)](https://github.com/yourusername/meshnet)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/meshnet?style=social)](https://github.com/yourusername/meshnet/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/Mohammad007/mesh_networking_app?style=social)](https://github.com/Mohammad007/mesh_networking_app)
+[![GitHub Forks](https://img.shields.io/github/forks/Mohammad007/mesh_networking_app?style=social)](https://github.com/Mohammad007/mesh_networking_app/fork)
 
 **Stay connected when the internet goes down. No servers. No internet. Just peer-to-peer mesh networking.**
 
@@ -147,7 +147,7 @@ graph LR
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/meshnet.git
+   git clone https://github.com/Mohammad007/mesh_networking_app.git
    cd meshnet
    ```
 
@@ -285,8 +285,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Found a bug or have a feature idea? Please open an issue!
 
-- 🐛 [Report a Bug](https://github.com/yourusername/meshnet/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/yourusername/meshnet/issues/new?template=feature_request.md)
+- 🐛 [Report a Bug](https://github.com/Mohammad007/mesh_networking_app/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/Mohammad007/mesh_networking_app/issues/new?template=feature_request.md)
 
 ---
 
@@ -342,13 +342,13 @@ copies of the Software...
 - [nearby_connections](https://pub.dev/packages/nearby_connections) - Wi-Fi Direct plugin
 - [flutter_blue_plus](https://pub.dev/packages/flutter_blue_plus) - BLE plugin
 - [Hive](https://pub.dev/packages/hive) - Fast NoSQL database
-- All our amazing [contributors](https://github.com/yourusername/meshnet/graphs/contributors)!
+- All our amazing [contributors](https://github.com/Mohammad007/mesh_networking_app/graphs/contributors)!
 
 ---
 
 ## 📞 Contact & Support
 
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/meshnet/discussions)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Mohammad007/mesh_networking_app/discussions)
 - 🐦 **Twitter**: [@meshnetapp](https://twitter.com/meshnetapp)
 - 📧 **Email**: support@meshnet.app
 - 🌐 **Website**: [meshnet.app](https://meshnet.app)
@@ -357,7 +357,7 @@ copies of the Software...
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/meshnet&type=Date)](https://star-history.com/#yourusername/meshnet&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mohammad007/mesh_networking_app&type=Date)](https://star-history.com/#Mohammad007/mesh_networking_app&Date)
 
 ---
 
